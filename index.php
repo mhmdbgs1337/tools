@@ -5,8 +5,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-        <title>HatsuSec</title>
-        <meta name="description" content="HatsuSec Tools">
+        <title>Tools Online</title>
+        <meta name="description" content="Tools Online">
         <meta name="viewport" content="width=device-width,initial-scale=1">
 
         <link rel="stylesheet" href="https://getcomposer.org//css/style.css?v=10">
@@ -25,7 +25,7 @@
                     <div class="logo">
         <img style="width:240px" src="https://unixtitan.net/images/miku-drawing-professional-5.png">
         <h1 class="slogan">
-            HatsuSec Tools
+            Tools Online
         </h1>
         <p class="latest">Latest: v0.0.1</p>
     </div>
